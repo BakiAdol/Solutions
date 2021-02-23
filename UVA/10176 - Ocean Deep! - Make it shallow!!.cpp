@@ -2,10 +2,6 @@
 
 using namespace std;
 
-vector<int> v(10005);
-
-const int mod = 131071;
-
 int main()
 {
 	v[0]=1;
